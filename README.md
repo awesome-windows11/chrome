@@ -27,6 +27,8 @@ https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghoc
 https://chrome.google.com/webstore/detail/favicons-for-google-searc/cmokoclkdghcohhmpohdhjahocjgjblp
 <br>
 https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha
+<br>
+https://github.com/z0ccc/Vytal
 
 <h3 align="center">📰 News / Build</h3>
 
