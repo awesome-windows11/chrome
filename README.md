@@ -18,5 +18,6 @@ https://github.com/henrypp/chrlauncher
 <br>
 [How to choose a browser for everyday use?](https://digdeeper.neocities.org/ghost/browsers.html)
 
+<h3 align="center">❗ Extension</h3>
 
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
