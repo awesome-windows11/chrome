@@ -25,3 +25,5 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk
 <br>
 https://chrome.google.com/webstore/detail/favicons-for-google-searc/cmokoclkdghcohhmpohdhjahocjgjblp
+<br>
+https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha
