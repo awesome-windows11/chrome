@@ -6,7 +6,7 @@ All Chromium based browsers fit this page: Chrome, Microsoft Edge, Brave, Yandex
 <br>
 https://chromium.woolyss.com
 <br>
-[Chrlauncher Chromium](https://github.com/henrypp/chrlauncher)
+https://github.com/henrypp/chrlauncher
 <br>
 [Browser Portable sourceforge.net](https://sourceforge.net/projects/portableapps/files/)
 <br>
