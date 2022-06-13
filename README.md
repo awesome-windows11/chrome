@@ -37,3 +37,5 @@ https://storage.googleapis.com/chromium-browser-snapshots/index.html
 Проверить revision | https://chromium.googlesource.com/chromium/src/+refs
 <br>
 https://www.chromium.org/developers/calendar
+<br>
+https://download-chromium.appspot.com
