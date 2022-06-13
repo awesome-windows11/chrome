@@ -23,3 +23,5 @@ https://github.com/henrypp/chrlauncher
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 <br>
 https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk
+<br>
+https://chrome.google.com/webstore/detail/favicons-for-google-searc/cmokoclkdghcohhmpohdhjahocjgjblp
