@@ -27,3 +27,11 @@ https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghoc
 https://chrome.google.com/webstore/detail/favicons-for-google-searc/cmokoclkdghcohhmpohdhjahocjgjblp
 <br>
 https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha
+
+<h3 align="center">📰 News</h3>
+
+https://support.google.com/chrome/a/answer/7679408
+
+https://storage.googleapis.com/chromium-browser-snapshots/index.html
+
+Проверить revision | https://chromium.googlesource.com/chromium/src/+refs
