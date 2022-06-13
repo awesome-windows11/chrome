@@ -21,4 +21,5 @@ https://github.com/henrypp/chrlauncher
 <h3 align="center">🛡 Extensions</h3>
 
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+<br>
 https://chrome.google.com/webstore/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk
