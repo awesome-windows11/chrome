@@ -41,3 +41,5 @@ https://crrev.com/1013379
 https://www.chromium.org/developers/calendar
 <br>
 https://download-chromium.appspot.com
+<br>
+https://chromestatus.com/features
