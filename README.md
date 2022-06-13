@@ -45,3 +45,5 @@ https://download-chromium.appspot.com
 https://chromestatus.com/features
 <br>
 https://omahaproxy.appspot.com
+<br>
+https://www.google.com/search?q=chrome&newwindow=1&safe=active&tbm=nws&sxsrf=ALeKk02WflmashJLnOL3PPFSgsGn7qbdKw:1622228938473&source=lnt&tbs=sbd:1&sa=X&ved=2ahUKEwjWt_zcie3wAhXC-ioKHXf1BvUQpwV6BAgIECw&biw=1920&bih=979&dpr=1
