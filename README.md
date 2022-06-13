@@ -43,3 +43,5 @@ https://www.chromium.org/developers/calendar
 https://download-chromium.appspot.com
 <br>
 https://chromestatus.com/features
+<br>
+https://omahaproxy.appspot.com
