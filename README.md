@@ -31,7 +31,7 @@ https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfi
 <h3 align="center">📰 News / Build</h3>
 
 https://support.google.com/chrome/a/answer/7679408
-
+<br>
 https://storage.googleapis.com/chromium-browser-snapshots/index.html
-
+<br>
 Проверить revision | https://chromium.googlesource.com/chromium/src/+refs
