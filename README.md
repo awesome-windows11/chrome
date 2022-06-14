@@ -28,6 +28,8 @@ https://chrome.google.com/webstore/detail/favicons-for-google-searc/cmokoclkdghc
 <br>
 https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha
 <br>
+https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb
+<br>
 https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd
 <br>
 https://github.com/z0ccc/Vytal
