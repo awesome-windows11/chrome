@@ -2,9 +2,9 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\URLBlocklist]
 "1"="xvideos.com"
-"2"="https://xnxx.com/"
-"3"="*porno*"
-"4"="https://rt.pornhub.com/"
+"2"="xnxx.com"
+"3"="pornhub.com"
+"4"="https://rt.pornhub.com"
 "5"="https://yandex.ru/video"
 "6"="https://vk.com/video?q=porn"
 "7"="https://vk.com/video?q=porn?nosafe=1"
