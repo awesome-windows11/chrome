@@ -18,7 +18,8 @@ https://github.com/henrypp/chrlauncher
 <br>
 [How to choose a browser for everyday use?](https://digdeeper.neocities.org/ghost/browsers.html)
 
-<h3 align="center">🛡 Extensions</h3>
+<details><summary><h3>🛡 Extensions</h3></summary>
+  
 
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 <br>
@@ -33,6 +34,8 @@ https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedc
 https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd
 <br>
 https://github.com/z0ccc/Vytal
+
+</details>
 
 <details><summary><h3>📜 Policies</h3></summary>
 
