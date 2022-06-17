@@ -59,6 +59,8 @@ https://github.com/z0ccc/Vytal
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v SpellcheckEnabled /t REG_DWORD /d 0 /f
   ```
   
+  ## Force Install Extensions
+  
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist" /v 1 /d "cjpalhdlnbpafiamejdnhcphjbkeiagm" /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist" /v 2 /d "lebiggkccaodkkmjeimmbogdedcpnmfb" /f
