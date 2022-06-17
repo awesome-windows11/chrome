@@ -67,6 +67,10 @@ https://github.com/z0ccc/Vytal
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist" /v 3 /d "cmokoclkdghcohhmpohdhjahocjgjblp" /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist" /v 4 /d "hkhggnncdpfibdhinjiegagmopldibha" /f
   ```
+
+  ## Force Block Site
+  
+  
 </details>
 
 <h3 align="center">📰 News / Build</h3>
