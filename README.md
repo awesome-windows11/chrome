@@ -68,7 +68,7 @@ https://github.com/z0ccc/Vytal
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist" /v 4 /d "hkhggnncdpfibdhinjiegagmopldibha" /f
   ```
 
-  ## Force Block Site
+  ## [Force Block Site](https://github.com/awesome-windows11/chrome/blob/main/files/URLBlocklist.reg)
   
   
 </details>
