@@ -62,7 +62,7 @@ https://github.com/z0ccc/Vytal
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v SpellcheckEnabled /t REG_DWORD /d 0 /f
   ```
   
-  ## Force Install Extensions
+  ### Force Install Extensions
   
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist" /v 1 /d "cjpalhdlnbpafiamejdnhcphjbkeiagm" /f
@@ -70,7 +70,7 @@ https://github.com/z0ccc/Vytal
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist" /v 3 /d "cmokoclkdghcohhmpohdhjahocjgjblp" /f
   ```
 
-  ## [Force Block Site](https://github.com/awesome-windows11/chrome/blob/main/files/URLBlocklist.reg)
+  ### [Force Block Site](https://github.com/awesome-windows11/chrome/blob/main/files/URLBlocklist.reg)
   
   
 </details>
