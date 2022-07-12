@@ -53,7 +53,6 @@ https://github.com/z0ccc/Vytal
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PasswordLeakDetectionEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PasswordManagerEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PromptForDownloadLocation /t REG_DWORD /d 1 /f
-  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v RestoreOnStartup /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v SafeBrowsingProtectionLevel /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v ShowFullUrlsInAddressBar /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v ShowHomeButton /t REG_DWORD /d 0 /f
@@ -65,6 +64,9 @@ https://github.com/z0ccc/Vytal
   
   ### MetricsReportingEnabled
   Эта политика доступна только для экземпляров Windows, присоединенных к домену Microsoft® Active Directory®, или экземпляров Windows 10 Pro или Enterprise, зарегистрированных для управления устройствами, и экземпляров macOS, управляемых через MDM или присоединенных к домену через MCX.
+  
+  ### RestoreOnStartup
+  В Microsoft® Windows® это правило можно настроить только на устройствах из домена Microsoft® Active Directory®, на которых установлена ОС Windows 10 Pro или которые зарегистрированы в программе "Chrome Browser Cloud Management". В macOS правило поддерживается только на устройствах, которые контролируются с помощью ПО для управления мобильными устройствами или добавлены в домен через MCX.
   
   ### Force Install Extensions
   
