@@ -55,7 +55,6 @@ https://github.com/z0ccc/Vytal
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PasswordLeakDetectionEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PasswordManagerEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PromptForDownloadLocation /t REG_DWORD /d 1 /f
-  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v NTPCustomBackgroundEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v SafeBrowsingProtectionLevel /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v SafeSitesFilterBehavior /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v ShowFullUrlsInAddressBar /t REG_DWORD /d 1 /f
@@ -72,6 +71,9 @@ https://github.com/z0ccc/Vytal
   
   ### RestoreOnStartup
   В Microsoft® Windows® это правило можно настроить только на устройствах из домена Microsoft® Active Directory®, на которых установлена ОС Windows 10 Pro или которые зарегистрированы в программе "Chrome Browser Cloud Management". В macOS правило поддерживается только на устройствах, которые контролируются с помощью ПО для управления мобильными устройствами или добавлены в домен через MCX.
+  
+  ### NTPCustomBackgroundEnabled
+  Ломает возможность убрать ярлыки сайтов с главной страницы
   
   ### Force Install Extensions
   
