@@ -49,7 +49,6 @@ https://github.com/z0ccc/Vytal
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v DefaultBrowserSettingEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v DownloadBubbleEnabled /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v ForceGoogleSafeSearch /t REG_DWORD /d 1 /f
-  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v MetricsReportingEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PasswordDismissCompromisedAlertEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PasswordLeakDetectionEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v PasswordManagerEnabled /t REG_DWORD /d 0 /f
@@ -63,6 +62,9 @@ https://github.com/z0ccc/Vytal
   
   ### RoamingProfileSupportEnabled - ломает портабельные браузеры
   Политика создает папку с файлом `%AppData%\Google\Chrome\User Data\Default\profile.pb`, в которой записываются все расширения и темы со всех браузеров Chromium, поэтому данную политику рекомендуется **НЕ** включать чтобы не сломать профили и портабельность
+  
+  ### MetricsReportingEnabled
+  Эта политика доступна только для экземпляров Windows, присоединенных к домену Microsoft® Active Directory®, или экземпляров Windows 10 Pro или Enterprise, зарегистрированных для управления устройствами, и экземпляров macOS, управляемых через MDM или присоединенных к домену через MCX.
   
   ### Force Install Extensions
   
