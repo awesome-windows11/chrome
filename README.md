@@ -42,6 +42,7 @@ https://github.com/z0ccc/Vytal
   Source: https://admx.help/HKLM/Software/Policies/Google
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v AdvancedProtectionAllowed /t REG_DWORD /d 0 /f
+  reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v AutoFillEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v AutofillAddressEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v AutofillCreditCardEnabled /t REG_DWORD /d 0 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v BackgroundModeEnabled /t REG_DWORD /d 0 /f
