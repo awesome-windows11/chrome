@@ -38,8 +38,6 @@ https://github.com/z0ccc/Vytal
 </details>
 
 <details><summary><h3>🛡 Flags</h3></summary>
-  
-<details><summary><h3>📜 Policies</h3></summary>
 
 --user-data-dir="%Profile%"
 <br>
@@ -60,7 +58,10 @@ https://github.com/z0ccc/Vytal
 --show-avatar-button=never
 <br>
 --disable-search-engine-collection
+</details>
 
+<details><summary><h3>📜 Policies</h3></summary>
+  
   Source: https://admx.help/HKLM/Software/Policies/Google
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome" /v AdvancedProtectionAllowed /t REG_DWORD /d 0 /f
