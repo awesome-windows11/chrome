@@ -37,7 +37,29 @@ https://github.com/z0ccc/Vytal
 
 </details>
 
+<details><summary><h3>🛡 Flags</h3></summary>
+  
 <details><summary><h3>📜 Policies</h3></summary>
+
+--user-data-dir="%Profile%"
+<br>
+--no-default-browser-check
+<br>
+--disable-component-update
+<br>
+--disable-background-networking
+<br>
+--allow-outdated-plugins
+<br>
+--force-device-scale-factor=1 
+<br>
+--enable-features=PasswordImport
+<br>
+--close-window-with-last-tab=never
+<br>
+--show-avatar-button=never
+<br>
+--disable-search-engine-collection
 
   Source: https://admx.help/HKLM/Software/Policies/Google
   ```powershell
