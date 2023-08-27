@@ -57,9 +57,11 @@ https://github.com/z0ccc/Vytal
 ```
 --allow-outdated-plugins
 ```
-```--force-device-scale-factor=1
 ```
-```--enable-features=PasswordImport
+--force-device-scale-factor=1
+```
+```
+--enable-features=PasswordImport
 ```
 ```
 --close-window-with-last-tab=never
