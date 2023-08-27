@@ -42,7 +42,6 @@ https://github.com/z0ccc/Vytal
 ```
 --user-data-dir="%Profile%"
 ```
-<br>
 ```
 --profile-directory="Profile 1"
 ```
