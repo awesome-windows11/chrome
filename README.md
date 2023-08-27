@@ -41,6 +41,8 @@ https://github.com/z0ccc/Vytal
 
 `--user-data-dir="%Profile%"`
 <br>
+`--profile-directory="Profile 1"`
+<br>
 `--no-default-browser-check`
 <br>
 `--disable-component-update`
