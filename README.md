@@ -39,7 +39,9 @@ https://github.com/z0ccc/Vytal
 
 <details><summary><h3>🚩 Flags</h3></summary>
 
-`--user-data-dir="%Profile%"`
+```
+--user-data-dir="%Profile%"
+```
 <br>
 `--profile-directory="Profile 1"`
 <br>
