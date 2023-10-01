@@ -8,6 +8,8 @@ https://chromium.woolyss.com
 <br>
 https://github.com/henrypp/chrlauncher
 <br>
+https://github.com/Hibbiki/chromium-win64/releases/download/v98.0.4758.82-r950365/chrome.sync.7z
+<br>
 [Browser Portable sourceforge.net](https://sourceforge.net/projects/portableapps/files/)
 <br>
 [Browser Portable portapps.io](https://portapps.io/apps/)
