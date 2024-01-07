@@ -37,6 +37,8 @@ https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedc
 <br>
 https://chrome.google.com/webstore/detail/improve-youtube-video-you/bnomihfieiccainjcjblhegjgglakjdd
 <br>
+https://chromewebstore.google.com/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa
+<br>
 https://github.com/z0ccc/Vytal
 
 </details>
