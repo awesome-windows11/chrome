@@ -1,4 +1,4 @@
-<h1 align="center"><img width=30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/1200px-Chromium_Logo.svg.png"></img> Awesome Chrome (in the progress...)</h1>
+<h1 align="center"><img width=30px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/1200px-Chromium_Logo.svg.png"></img> Awesome Chrome</h1>
 
 All Chromium based browsers fit this page: Chrome, Microsoft Edge, Brave, Yandex, Opera, Vivaldi
 
@@ -6,15 +6,17 @@ All Chromium based browsers fit this page: Chrome, Microsoft Edge, Brave, Yandex
   
 [Portable Chromium (full USB!)](https://github.com/jestxfot/Google-Chrome-Portable)
 <br>
-https://chromium.woolyss.com
+[chromium.woolyss.com](https://chromium.woolyss.com)
 <br>
-https://github.com/henrypp/chrlauncher
+[github.com/henrypp/chrlauncher](https://github.com/henrypp/chrlauncher)
 <br>
-https://github.com/Hibbiki/chromium-win64
+[github.com/Hibbiki/chromium-win64](https://github.com/Hibbiki/chromium-win64)
 <br>
-[Browser Portable sourceforge.net](https://sourceforge.net/projects/portableapps/files/)
+[ungoogled-software.github.io/ungoogled-chromium-binaries/](https://ungoogled-software.github.io/ungoogled-chromium-binaries)
 <br>
-[Browser Portable portapps.io](https://portapps.io/apps/)
+[sourceforge.net/portableapps](https://sourceforge.net/projects/portableapps/files/)
+<br>
+[portapps.io](https://portapps.io/apps/)
 <br>
 [Effect8](http://effect8.ru/)
 <br>
