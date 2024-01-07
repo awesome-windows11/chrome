@@ -136,13 +136,13 @@ https://github.com/z0ccc/Vytal
 
 <h3 align="center">📰 News / Build</h3>
 
-Chrome Enterprise | https://chromeenterprise.google/intl/ru_ru/browser/download/
+Chrome Enterprise: https://chromeenterprise.google/intl/ru_ru/browser/download/
 <br>
 https://support.google.com/chrome/a/answer/7679408
 <br>
 https://storage.googleapis.com/chromium-browser-snapshots/index.html
 <br>
-Проверить revision | https://chromium.googlesource.com/chromium/src/+refs
+Check revision: https://chromium.googlesource.com/chromium/src/+refs
 <br>
 https://crrev.com/1013379
 <br>
