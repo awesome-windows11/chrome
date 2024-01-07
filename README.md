@@ -18,7 +18,7 @@ All Chromium based browsers fit this page: Chrome, Microsoft Edge, Brave, Yandex
 <br>
 [portapps.io](https://portapps.io/apps/)
 <br>
-[Effect8](http://effect8.ru/)
+[effect8.ru](http://effect8.ru/)
 <br>
 [Spyware Browsers](https://spyware.neocities.org/articles/browsers.html) or https://spyware.neocities.org/articles/index.html
 <br>
