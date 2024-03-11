@@ -2,7 +2,7 @@
 
 All Chromium based browsers fit this page: Chrome, Microsoft Edge, Brave, Yandex, Opera, Vivaldi
 
-<h3>🔽 Download</h3>
+**🔽 Download**
   
 [Portable Chromium (full USB!)](https://github.com/jestxfot/Google-Chrome-Portable)
 <br>
@@ -24,7 +24,7 @@ All Chromium based browsers fit this page: Chrome, Microsoft Edge, Brave, Yandex
 <br>
 [How to choose a browser for everyday use?](https://digdeeper.neocities.org/ghost/browsers.html)
 
-<details><summary><h3>🛡 Extensions</h3></summary>
+**<details><summary>🛡 Extensions</summary>**
   
 
 https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
@@ -45,7 +45,7 @@ https://github.com/z0ccc/Vytal
 
 </details>
 
-<details><summary><h3>🚩 Flags</h3></summary>
+**<details><summary>🚩 Flags</summary>**
 
 ```
 --user-data-dir="%Profile%"
@@ -82,7 +82,7 @@ https://github.com/z0ccc/Vytal
 ```
 </details>
 
-<details><summary><h3>📜 Policies</h3></summary>
+**<details><summary>📜 Policies</summary>**
   
   Source: https://admx.help/HKLM/Software/Policies/Google
   ```powershell
