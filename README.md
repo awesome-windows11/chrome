@@ -35,6 +35,8 @@ https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocf
 <br>
 https://chromewebstore.google.com/detail/favicons-for-google-searc/cmokoclkdghcohhmpohdhjahocjgjblp
 <br>
+https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
+<br>
 https://chromewebstore.google.com/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha
 <br>
 https://chromewebstore.google.com/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb
