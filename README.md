@@ -49,6 +49,8 @@ https://chromewebstore.google.com/detail/improve-youtube-video-you/bnomihfieicca
 <br>
 https://chromewebstore.google.com/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa
 <br>
+https://chromewebstore.google.com/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd?hl=ru
+<br>
 https://github.com/z0ccc/Vytal
 
 </details>
