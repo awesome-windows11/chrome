@@ -41,6 +41,8 @@ https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejag
 <br>
 https://chromewebstore.google.com/detail/history-trends-unlimited/pnmchffiealhkdloeffcdnbgdnedheme
 <br>
+https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci
+<br>
 https://chromewebstore.google.com/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha
 <br>
 https://chromewebstore.google.com/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb
