@@ -33,6 +33,9 @@ https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphj
 <br>
 https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk
 <br>
+<br>
+https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped
+<br>
 https://chromewebstore.google.com/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif
 <br>
 https://chromewebstore.google.com/detail/favicons-for-google-searc/cmokoclkdghcohhmpohdhjahocjgjblp
