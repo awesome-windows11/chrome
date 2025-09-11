@@ -22,7 +22,7 @@ All Chromium based browsers fit this page: Chrome, Microsoft Edge, Brave, Yandex
 <br>
 [Spyware Browsers](https://spyware.neocities.org/articles/browsers.html) or https://spyware.neocities.org/articles/index.html
 <br>
-[How to choose a browser for everyday use?](https://digdeeper.neocities.org/ghost/browsers.html)
+[How to choose a browser for everyday use?](https://digdeeper.neocities.org/articles/browsers.xhtml)
 <br>
 https://github.com/uazo/cromite
 
